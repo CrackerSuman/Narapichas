@@ -1,2 +1,2 @@
 # Narapichas
-Narapichas Project
+Narapichas Project planning for future
